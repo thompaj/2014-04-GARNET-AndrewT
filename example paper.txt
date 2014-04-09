@@ -3,5 +3,6 @@ Title
 Authors
 
 stuff
+figure x
 
 references
